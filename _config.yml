@@ -4,18 +4,18 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Epworth的blog
-subtitle:是个大佬！
-description:大佬大佬大佬大佬
-author: Epworth
+title: 'Epworth的blog'
+subtitle: '是个大佬！'
+description: '大佬大佬大佬大佬'
+author: 'Epworth'
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:https://buringstraw.win
-baseurl:"/"
+url: 'https://buringstraw.win'
+baseurl: "/"
 permalink: pretty
 
 # Pagination
