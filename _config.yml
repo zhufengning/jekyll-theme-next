@@ -4,18 +4,18 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 'Epworth的blog'
-subtitle: '是个大佬！'
-description: '大佬大佬大佬大佬'
-author: 'Epworth'
+title: Epworth的blog
+subtitle:是个大佬！
+description:大佬大佬大佬大佬
+author: Epworth
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: 'zh-Hans'
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://buringstraw.club'
-baseurl: ''
+url:https://buringstraw.win
+baseurl:"/"
 permalink: pretty
 
 # Pagination
@@ -436,11 +436,11 @@ changyan:
 # Support for gitalk comments system.
 gitalk:
   enable: true
-  clientID: 'e66b4a68dc6961cf675b'
-  clientSecret: '5cebd83a5d651e73f8767e8da83a078d01f6b5a0'
-  repo: 'https://epworth.coding.me'
-  owner: 'zhufengning'
-  admin: 'zhufengning'
+  clientID: e66b4a68dc6961cf675b
+  clientSecret: 5cebd83a5d651e73f8767e8da83a078d01f6b5a0
+  repo: https://epworth.coding.me
+  owner: zhufengning
+  admin: zhufengning
 
 # Baidu Share
 # Available value:
@@ -479,7 +479,7 @@ gitalk:
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: false
+  ua_enable: true
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
